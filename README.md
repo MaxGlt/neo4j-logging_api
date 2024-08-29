@@ -28,6 +28,7 @@ Le `DbContext` est configuré pour établir une connexion sécurisée avec Neo4j
     "Password": "password"
   }
 }
+```
 
 ## Contribution
 
