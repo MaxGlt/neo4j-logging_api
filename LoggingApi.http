@@ -1,0 +1,6 @@
+@LoggingApi_HostAddress = http://localhost:5017
+
+GET {{LoggingApi_HostAddress}}/logging/
+Accept: application/json
+
+###
